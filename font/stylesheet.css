@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Goodly';
+    src: url('GoodlyBold.woff2') format('woff2'),
+        url('GoodlyBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goodly Extra';
+    src: url('GoodlyExtraLight.woff2') format('woff2'),
+        url('GoodlyExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goodly';
+    src: url('GoodlyLight.woff2') format('woff2'),
+        url('GoodlyLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goodly';
+    src: url('GoodlyMedium.woff2') format('woff2'),
+        url('GoodlyMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goodly';
+    src: url('GoodlySemibold.woff2') format('woff2'),
+        url('GoodlySemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goodly';
+    src: url('GoodlyRegular.woff2') format('woff2'),
+        url('GoodlyRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
